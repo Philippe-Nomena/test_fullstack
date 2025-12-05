@@ -1,15 +1,7 @@
-### Configuration et lancement du Backend (NestJS)
+### Ceci est juste une explication pour executer l'application
 
-Pour exécuter et tester le serveur backend localement, suivez ces étapes simples :
+pour lancer l'application il faut d'abord entrer dans chaque dossier qui contient celle du front et celle du back
 
-#### Prérequis
+Pour le frontend: test_fullstacks/front/tests_fullstacks
 
-- Node.js ≥ 18
-- npm ou yarn ou pnpm
-
-#### 1. Installation des dépendances
-
-```bash
-cd back
-npm install
-```
+Pour le backend: test_fullstacks/back/tests_fullstacks
